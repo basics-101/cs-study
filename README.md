@@ -46,6 +46,8 @@
 - https://www.youtube.com/playlist?list=PLV1ll5ct6GtzIovBUtBb6MXhxqwvKLKRj
 ### Network 강의
 - http://www.kocw.net/home/cview.do?cid=6166c077e545b736
+### DB 강의
+- http://www.kocw.net/home/cview.do?cid=d549f8570583094b
 
 ## ➕ 추가 자료
 ### 관련 영어 자료
